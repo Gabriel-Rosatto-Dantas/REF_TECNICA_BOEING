@@ -1,0 +1,4 @@
+selenium>=4.35,<5
+gspread>=6.2,<7
+google-auth-oauthlib>=1.2,<2
+requests>=2.32,<3
